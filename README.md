@@ -1,14 +1,14 @@
 <!-- Profile Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+Nodir+Ustoz!;IT+Mentor+%26+Teacher;Mentor+in+Programming+and+IT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+Nvrozbek!;IT+student+%26+Teacher;student+in+Programming+and+IT" alt="Typing SVG" />
 </div>
 
 ## 🧑‍💻 About Me
 
-💻 **Profession:** IT Park Mentor & Programming Teacher  
-🎯 **Goal:** Teaching youth, sharing knowledge, and contributing to their future  
-🎓 **Fields I Teach:** Python, Web Development, Cybersecurity  
-📚 **Experience:** Many years in IT with thousands of students trained  
+💻 **Profession:** Aspiring IT student and future developer  
+🎯 **Goal:** To deeply learn technology and build useful projects  
+🎓 **Fields I'm Learning:** Python, Web Development, Cybersecurity  
+📚 **Experience:** Improving my skills every day through hands-on practice
 
 ---
 
@@ -29,7 +29,6 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### </> Development Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ---
 
